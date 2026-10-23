@@ -1,0 +1,13 @@
+{
+  "companySlugs": [
+    "rhynocare",
+    "barloworldequipment"
+  ],
+  "maxResultsPerCompany": 5,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
